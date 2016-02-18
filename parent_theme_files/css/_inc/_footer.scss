@@ -1,0 +1,23 @@
+/* -----------------------------------------
+	05. Footer
+----------------------------------------- */
+.footer-separator {
+	border: none;
+	width: 100%;
+	background-color: $primary-color;
+	height: 20px;
+}
+
+#footer {
+	padding: 90px 0 40px;
+}
+
+.footer-credits {
+	margin-top: 20px;
+	text-align: center;
+	font-size: 13px;
+
+	p {
+		margin: 0;
+	}
+}

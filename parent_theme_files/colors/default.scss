@@ -1,0 +1,9 @@
+$accent-color: #e2c672;
+$primary-color: #fff !default;
+$secondary-color: #242424 !default;
+$body_bg: $secondary-color !default;
+$text-color: #FFF !default;
+$border-color: #363636 !default;
+$btn-hover-color: $secondary-color !default;
+
+@import '_base.scss';
